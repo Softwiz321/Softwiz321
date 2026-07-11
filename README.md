@@ -99,7 +99,7 @@ I have internship experience in AI/ML and Data Science, where I've worked on pra
 ## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
+<img src="https://skillicons.dev/icons?i=flask,django" />
 </p>
 
 ## 🗄️ Databases
@@ -111,7 +111,7 @@ I have internship experience in AI/ML and Data Science, where I've worked on pra
 ## ☁️ Cloud • DevOps • Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ## 📊 Data Science & AI
