@@ -237,12 +237,12 @@ I have internship experience in AI/ML and Data Science, where I've worked on pra
 
 <div align="center">
 
-| AI & ML | Data Science | Software Engineering |
-|---------|--------------|----------------------|
-| Machine Learning | Data Analytics | Full Stack Development |
+| AI & ML | Data Science |
+|---------|--------------|
+| Machine Learning | Data Analytics |
 | Deep Learning | Data Visualization |
-| NLP | Business Intelligence | System Design |
-| Computer Vision | Dashboarding | Automation |
+| NLP | Business Intelligence |
+| Computer Vision | Dashboarding |
 
 </div>
 
