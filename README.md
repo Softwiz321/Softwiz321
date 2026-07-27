@@ -87,7 +87,7 @@ I have internship experience in AI/ML and Data Science, where I've worked on pra
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,mysql" />
 </p>
 
 ## 🌐 Frontend Development
