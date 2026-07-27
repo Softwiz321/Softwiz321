@@ -250,59 +250,115 @@ I have internship experience in AI/ML and Data Science, where I've worked on pra
 # 🚀 Featured Projects
 
 <details open>
-<summary><b>📡 India Trend Radar – News Intelligence Platform</b></summary>
+<summary><b>📊 SEO Automated Analyzer</b></summary>
 
-### Overview
+## Overview
 
-An AI-powered news intelligence pipeline that collects news from multiple sources, processes and filters trending articles, stores them in a database, and exports clean datasets for analytics dashboards.
+An interactive Business Intelligence dashboard developed in Power BI to monitor and analyze website SEO performance. The dashboard integrates data from Google Search Console, Google Analytics 4, and BigQuery, transforming raw SEO metrics into actionable business insights through DAX calculations and interactive visualizations.
 
 | Category | Details |
 |-----------|---------|
-| **Tech Stack** | Python, MySQL, NewsAPI, RSS, GNews, Pandas, APScheduler |
-| **Scale** | Multi-source automated news collection |
-| **Performance** | Automated ingestion, deduplication & scheduled execution |
-| **Security** | Environment variable based API management |
-| **Impact** | Built a reusable data pipeline for news analytics and Power BI dashboards |
-| **Repository** | https://github.com/Softwiz321 |
+| **Tech Stack** | Power BI, DAX, Power Query, Google Search Console, Google Analytics 4, BigQuery |
+| **Domain** | SEO Analytics & Business Intelligence |
+| **Features** | Keyword Rankings, CTR Analysis, Impressions, Backlinks, Core Web Vitals |
+| **Visualization** | Interactive Dashboards & KPI Reports |
+| **Impact** | Enables data-driven SEO monitoring and performance optimization |
 
-### Highlights
+### Key Features
 
-- Multi-source news aggregation
-- Automated ETL pipeline
-- Duplicate detection
-- MySQL integration
-- CSV export
-- Scheduler automation
-- Power BI ready datasets
+- Interactive SEO dashboard
+- Advanced DAX calculations
+- Power Query data transformation
+- Keyword ranking analysis
+- CTR and impressions tracking
+- Core Web Vitals monitoring
+- Performance KPI visualization
 
 </details>
 
 ---
 
 <details>
-<summary><b>📄 ResumeIQ – AI Resume Analyzer</b></summary>
+<summary><b>❤️ Heart Disease Analysis Dashboard</b></summary>
 
-### Overview
+## Overview
 
-An AI-powered resume analysis platform that evaluates resumes, provides ATS optimization suggestions, and generates actionable feedback using Natural Language Processing techniques.
+A healthcare analytics dashboard built using Power BI to analyze patient demographics, clinical indicators, and heart disease risk factors. The project provides meaningful insights through interactive reports and data visualizations that support healthcare decision-making.
 
 | Category | Details |
 |-----------|---------|
-| **Tech Stack** | Python, Flask, React, Vite, Tailwind CSS, NLP |
-| **Scale** | Full Stack AI Web Application |
-| **Performance** | Fast resume parsing and AI-driven recommendations |
-| **Security** | Secure file handling and validation |
-| **Impact** | Helps job seekers improve ATS compatibility |
-| **Repository** | https://github.com/Softwiz321 |
+| **Tech Stack** | Power BI, DAX, Power Query, Excel |
+| **Domain** | Healthcare Analytics |
+| **Visualization** | Interactive Dashboard |
+| **Features** | Patient Analysis, KPI Dashboard, Risk Factor Analysis |
+| **Impact** | Supports data-driven healthcare insights through visual analytics |
 
-### Highlights
+### Key Features
 
-- Resume parsing
-- ATS score prediction
-- Keyword extraction
-- Resume improvement suggestions
-- Interactive dashboard
-- Modern responsive UI
+- Patient demographic analysis
+- Heart disease risk visualization
+- Interactive reports
+- DAX measures
+- KPI dashboard
+- Data-driven healthcare insights
+
+</details>
+
+---
+
+<details>
+<summary><b>🌐 Web Scraping & Data Analysis</b></summary>
+
+## Overview
+
+A Python-based data collection pipeline that automates web scraping, cleans and transforms extracted information, and prepares structured datasets for further analysis and visualization using industry-standard data science libraries.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python, BeautifulSoup, Requests, Pandas |
+| **Domain** | Data Collection & Analysis |
+| **Automation** | Web Scraping Pipeline |
+| **Features** | Data Cleaning, Transformation, CSV Export |
+| **Impact** | Automates manual data collection and improves data availability for analytics |
+
+### Key Features
+
+- Automated web scraping
+- Data extraction
+- Data preprocessing
+- Data cleaning
+- CSV export
+- Structured dataset generation
+- Analytics-ready output
+
+</details>
+
+---
+
+<details>
+<summary><b>📧 Email Spam Detection using Machine Learning</b></summary>
+
+## Overview
+
+A machine learning project that classifies emails as spam or legitimate using Natural Language Processing techniques, TF-IDF vectorization, and supervised learning algorithms to improve email filtering accuracy.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python, Scikit-learn, Pandas, NumPy, TF-IDF |
+| **Domain** | Machine Learning & NLP |
+| **Algorithms** | Text Classification |
+| **Features** | Spam Detection, Feature Extraction, Model Evaluation |
+| **Impact** | Demonstrates practical application of NLP in email classification |
+
+### Key Features
+
+- Text preprocessing
+- TF-IDF vectorization
+- Spam classification
+- Feature engineering
+- Model evaluation
+- Performance metrics
+- Prediction pipeline
 
 </details>
 
@@ -311,56 +367,28 @@ An AI-powered resume analysis platform that evaluates resumes, provides ATS opti
 <details>
 <summary><b>🌐 Personal Portfolio Website</b></summary>
 
-### Overview
+## Overview
 
-A modern developer portfolio showcasing projects, skills, certifications, education, and professional experience with responsive design.
+A modern, responsive portfolio website developed using React and Tailwind CSS to showcase projects, technical skills, internships, certifications, education, and professional achievements through a clean and interactive user interface.
 
 | Category | Details |
 |-----------|---------|
-| **Tech Stack** | HTML, CSS, JavaScript |
-| **Scale** | Personal Branding Website |
-| **Performance** | Lightweight responsive design |
-| **Security** | Static deployment |
-| **Impact** | Professional online portfolio |
+| **Tech Stack** | React, Vite, Tailwind CSS |
+| **Deployment** | Netlify |
+| **Architecture** | Single Page Application (SPA) |
+| **Features** | Responsive Design, Smooth Animations, Interactive UI |
+| **Purpose** | Professional Portfolio & Personal Branding |
 | **Website** | https://atharvakolhe.netlify.app |
 
-### Highlights
+### Key Features
 
-- Responsive layout
-- Modern UI
-- Project showcase
-- Contact section
-- Skills section
-- Professional branding
-
-</details>
-
----
-
-<details>
-<summary><b>🤖 Machine Learning Projects</b></summary>
-
-### Overview
-
-A collection of machine learning projects exploring supervised learning, data preprocessing, visualization, and predictive analytics.
-
-| Category | Details |
-|-----------|---------|
-| **Tech Stack** | Python, NumPy, Pandas, Scikit-learn |
-| **Scale** | Academic & Practical Projects |
-| **Performance** | Optimized ML workflows |
-| **Security** | Best coding practices |
-| **Impact** | Hands-on AI and Data Science experience |
-| **Repository** | https://github.com/Softwiz321 |
-
-### Highlights
-
-- Classification models
-- Regression models
-- Data visualization
-- Feature engineering
-- Model evaluation
-- Exploratory Data Analysis
+- Modern responsive design
+- Interactive project showcase
+- Technical skills section
+- Certification gallery
+- Contact form integration
+- Smooth scrolling navigation
+- Professional UI/UX
 
 </details>
 
