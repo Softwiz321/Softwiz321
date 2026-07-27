@@ -12,8 +12,6 @@
 
 <img src="https://img.shields.io/badge/Data%20Science-AI%2FML-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Python-Developer-5B21B6?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Location-India-4F46E5?style=for-the-badge"/>
 
 <br/><br/>
@@ -75,7 +73,6 @@ I have internship experience in AI/ML and Data Science, where I've worked on pra
 
 - AI / ML Internship
 - Data Science Internship
-- Software Engineering Internship
 - Open Source Collaboration
 - Research Opportunities
 
