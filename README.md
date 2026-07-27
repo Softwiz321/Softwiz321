@@ -472,24 +472,24 @@ Worked on Data Science projects involving data analysis, visualization, and mach
 <table>
 <tr>
 <td align="center">
-<img src="assets/certificates/python-certificate.jpg" width="350"/><br>
+<img src="asset/certificates/python-certificate.jpg" width="350"/><br>
 <b>Python Development with Data Migration</b>
 </td>
 
 <td align="center">
-<img src="assets/certificates/sql-plsql-certificate.jpg" width="350"/><br>
+<img src="asset/certificates/sql-plsql-certificate.jpg" width="350"/><br>
 <b>SQL / PLSQL</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="assets/certificates/c-certificate.jpg" width="350"/><br>
+<img src="asset/certificates/c-certificate.jpg" width="350"/><br>
 <b>C Programming</b>
 </td>
 
 <td align="center">
-<img src="assets/certificates/ds.png" width="350"/><br>
+<img src="asset/certificates/ds-certificate.png" width="350"/><br>
 <b>Data Science with AI/ML</b>
 </td>
 </tr>
@@ -511,33 +511,10 @@ Worked on Data Science projects involving data analysis, visualization, and mach
 - Continuous Learning
 
 ---
-# 📊 Coding Profiles
-
-<div align="center">
-
-> *Currently focusing on building real-world AI/ML projects and strengthening problem-solving skills.*
-
-<a href="https://github.com/Softwiz321">
-<img src="https://img.shields.io/badge/GitHub-Softwiz321-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://img.shields.io/badge/LeetCode-Coming%20Soon-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coming%20Soon-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HackerRank-Coming%20Soon-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CodeChef-Coming%20Soon-5B4638?style=for-the-badge"/>
-
-</div>
-
----
 
 # 📈 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Softwiz321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Softwiz321&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -551,33 +528,11 @@ Worked on Data Science projects involving data analysis, visualization, and mach
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Softwiz321&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
 # 📊 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Softwiz321&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> **Note:** Enable the GitHub Action in your profile repository to generate this animation.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Softwiz321/Softwiz321/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
