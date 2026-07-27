@@ -48,7 +48,7 @@
 
 # 👨‍💻 About Me
 
-I'm **Atharva Jitendra Kolhe**, an aspiring **Data Science & AI/ML Engineer** currently pursuing **M.Sc. in Computer Science**. I enjoy designing intelligent software systems that combine data, machine learning, and modern software engineering practices to solve real-world problems.
+I'm **Atharva J. Kolhe**, an aspiring **Data Science & AI/ML Engineer** currently pursuing **M.Sc. in Computer Science**. I enjoy designing intelligent software systems that combine data, machine learning, and modern software engineering practices to solve real-world problems.
 
 My interests span the complete AI development lifecycle—from collecting and processing data to training models, deploying applications, and continuously improving performance.
 
