@@ -469,17 +469,31 @@ Worked on Data Science projects involving data analysis, visualization, and mach
 
 ## 🏛️ TechnoComp Academy
 
-<img src="https://img.shields.io/badge/C%20Programming-Certified-6D28D9?style=for-the-badge&logo=c&logoColor=white"/>
+<table>
+<tr>
+<td align="center">
+<img src="assets/certificates/python-certificate.jpg" width="350"/><br>
+<b>Python Development with Data Migration</b>
+</td>
 
-<img src="https://img.shields.io/badge/Python-Certified-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
+<td align="center">
+<img src="assets/certificates/sql-plsql-certificate.jpg" width="350"/><br>
+<b>SQL / PLSQL</b>
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/SQL%20%2F%20PLSQL-Certified-4F46E5?style=for-the-badge&logo=oracle&logoColor=white"/>
+<tr>
+<td align="center">
+<img src="assets/certificates/c-certificate.jpg" width="350"/><br>
+<b>C Programming</b>
+</td>
 
-<br/><br/>
-
-## 🤖 CodeWithHarry
-
-<img src="https://img.shields.io/badge/Data%20Science%20with%20AI%2FML-Certified-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<td align="center">
+<img src="assets/certificates/ds.png" width="350"/><br>
+<b>Data Science with AI/ML</b>
+</td>
+</tr>
+</table>
 
 </div>
 
