@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Atharva%20Jitendra%20Kolhe&fontSize=48&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Atharva%20J.%20Kolhe&fontSize=48&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
 
 <br/>
 
