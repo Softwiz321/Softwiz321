@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<a href="https://atharvakolhe.netlify.app/">
+<a href="https://atharva-kolhe-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -375,7 +375,7 @@ A modern, responsive portfolio website developed using React and Tailwind CSS to
 | **Architecture** | Single Page Application (SPA) |
 | **Features** | Responsive Design, Smooth Animations, Interactive UI |
 | **Purpose** | Professional Portfolio & Personal Branding |
-| **Website** | https://atharvakolhe.netlify.app |
+| **Website** | https://atharva-kolhe-portfolio.vercel.app/ |
 
 ### Key Features
 
@@ -585,7 +585,7 @@ open_to:
 <img src="https://img.shields.io/badge/GitHub-Softwiz321-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://atharvakolhe.netlify.app/">
+<a href="https://atharva-kolhe-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
